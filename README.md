@@ -20,4 +20,4 @@ ___
 
 ```P.S. Это не мой кот```
 
-theme: Architect
+theme: Modernist
